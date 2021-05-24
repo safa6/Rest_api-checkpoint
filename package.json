@@ -1,0 +1,18 @@
+{
+  "name": "restapichecpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "safa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  },"devDependencies": {
+    "nodemon": "^2.0.7"
+}
+}
